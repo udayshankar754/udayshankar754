@@ -1,32 +1,34 @@
-<h1 align="center">Hey there, I'm 👋 Prashant</h1>
+<h1 align="center">Hey there, I'm 👋 Uday Shankar Purbey.</h1>
 <p align="center">
-  🔥 Angular Developer | 💻 Software Engineer | 🚀 Tech Enthusiast
+  🔥 Angular & Node.js Developer | 💻 Full Stack Explorer | 🚀 Tech Enthusiast
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a passionate **Frontend Developer** who loves turning clean code into beautiful, responsive, and scalable web applications. I specialize in **Angular** and have been professionally crafting apps for over **2 years** at **Naxtre Technologies Pvt. Ltd.**
+I’m a passionate **Frontend + Backend Developer** who loves turning clean code into powerful, scalable applications. I specialize in **Angular** on the frontend, and I also work on the backend using **Node.js**, **Express**, and **MySQL**.
 
-🎓 I completed my **B.Tech** in Computer Science from  
+For the last **2 years**, I've been working at **Naxtre Technologies Pvt. Ltd.** as an **Angular Developer**, contributing to production-grade web apps.
+
+🎓 I hold a **B.Tech** in Computer Science from  
 **Gandhi Institute for Education and Technology, Khurda**, under **BPUT, Odisha**.
 
 ---
 
 ## 🚀 What I Do
 
-- Build complex **SPA**s (Single Page Applications) using Angular & TypeScript  
-- Collaborate with cross-functional teams in Agile environments  
-- Write clean, modular, and maintainable code  
-- Integrate RESTful APIs and debug with precision  
-- Explore the latest in frontend tech and design trends  
+- Build **SPA**s using Angular & TypeScript  
+- Develop and maintain **REST APIs** with Node.js & Express  
+- Design and manage relational databases using **MySQL**  
+- Integrate full-stack systems in real-world business applications  
+- Collaborate in Agile teams to deliver clean, scalable code  
 
 ---
 
 ## 🛠️ Tech Toolbox
 
-**Languages & Frameworks:**
+**Frontend:**
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -34,6 +36,12 @@ I’m a passionate **Frontend Developer** who loves turning clean code into beau
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
+
+**Backend:**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools & Platforms:**
 
@@ -44,30 +52,38 @@ I’m a passionate **Frontend Developer** who loves turning clean code into beau
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udayshankar754&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayshankar754&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
 ## 🌱 Currently Exploring
 
-- Advanced Angular Patterns & Signals  
-- Backend with Node.js & MongoDB  
-- Web Performance Optimization  
+- Python (for scripting and automation) 🐍  
+- SQL Server Management Studio (SSMS)  
+- Clean Code, Design Patterns  
 - Firebase + AngularFire  
-- Clean Architecture & Testing  
+- Backend architecture with Node.js  
 
 ---
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- [GitHub](https://github.com/yourusername)  
+- [GitHub](https://github.com/udayshankar754)  
 - 📧 uday.naxtre@gmail.com
 
 ---
 
 ## ✨ Fun Facts
 
-- 👨‍🎓 I'm a proud BPUT grad
-- 🎨 I appreciate minimal UI/UX design
-- 🧩 I love solving code puzzles and bugs (even the weird ones)
-- 🎮 Weekend stressbuster? Gaming or a good tech podcast
+- 👨‍🎓 Proud BPUT grad
+- 🎨 UI/UX minimalist
+- 🧩 Loves debugging weird edge cases
+- 🎮 Gaming + tech podcasts are my go-to weekend ritual
 
 ---
 
